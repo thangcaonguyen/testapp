@@ -97,8 +97,7 @@
 		15E847471C98D79C001B6BBE /* myapp */ = {
 			isa = PBXGroup;
 			children = (
-				15E847481C98D79C001B6BBE /* AppDelegate.swift */,
-				15E8474A1C98D79C001B6BBE /* ViewController.swift */,
+				15E847761C98D838001B6BBE /* My Group */,
 				15E8474C1C98D79C001B6BBE /* Main.storyboard */,
 				15E8474F1C98D79C001B6BBE /* Assets.xcassets */,
 				15E847511C98D79C001B6BBE /* LaunchScreen.storyboard */,
@@ -123,6 +122,15 @@
 				15E8476A1C98D79C001B6BBE /* Info.plist */,
 			);
 			path = myappUITests;
+			sourceTree = "<group>";
+		};
+		15E847761C98D838001B6BBE /* My Group */ = {
+			isa = PBXGroup;
+			children = (
+				15E847481C98D79C001B6BBE /* AppDelegate.swift */,
+				15E8474A1C98D79C001B6BBE /* ViewController.swift */,
+			);
+			name = "My Group";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
